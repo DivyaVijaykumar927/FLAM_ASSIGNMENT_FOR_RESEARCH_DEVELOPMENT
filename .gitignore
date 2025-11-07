@@ -1,0 +1,68 @@
+# ===========================
+# Parametric Curve Fitting Project - .gitignore
+# ===========================
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+env/
+venv/
+.venv/
+ENV/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter notebooks
+*.ipynb
+.ipynb_checkpoints/
+
+# IDE / Editor folders
+.vscode/
+.idea/
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Data backups
+*.csv~
+*.zip
+*.tar.gz
+
+# Kaggle-specific paths
+/kaggle/working/*
+/kaggle/temp/*
+/kaggle/input/*
+
+# Results and generated outputs (remove these lines if you want to upload plots)
+results/
+*.png
+*.pdf
+*.txt
+
+# Python environments and dependency managers
+Pipfile
+Pipfile.lock
+poetry.lock
+
+# System files
+ehthumbs.db
+Icon?
+desktop.ini
+
+# Custom ignore - Optional
+# Uncomment if you use notebooks or test data
+# notebooks/
+# test_data/

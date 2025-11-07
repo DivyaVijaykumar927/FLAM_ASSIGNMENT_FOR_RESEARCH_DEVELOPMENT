@@ -1,0 +1,10 @@
+Version 4 — Parametric Curve Estimation
+============================================================
+θ (radians): 0.49075866
+θ (degrees): 28.118400
+M: 0.02138883
+X: 54.899909
+L1 Error: 37865.093864
+
+Desmos Format:
+\left(t*\cos(0.490759)-e^{0.021389\left|t\right|}\cdot\sin(0.3t)\sin(0.490759)+54.8999,42+t*\sin(0.490759)+e^{0.021389\left|t\right|}\cdot\sin(0.3t)\cos(0.490759)\right)

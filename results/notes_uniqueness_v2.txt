@@ -1,0 +1,5 @@
+Notes on uniqueness (Version 2):
+- Used weighted L1 loss: w_x=0.70, w_y=0.30
+- Local optimization used Nelder-Mead (different from L-BFGS-B)
+- Performed 20 bootstrap fits to estimate parameter variability
+- This demonstrates alternative fitting choices and uncertainty analysis

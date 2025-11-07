@@ -1,0 +1,12 @@
+Parametric Curve Estimation (Version 5)
+============================================================
+phi (radians): 0.49075971
+phi (degrees): 28.118460
+growth_rate: 0.02138873
+x_offset: 54.90083744
+L1 Error: 37865.093899
+MAE: 12.621698
+Correlation: -0.055030
+
+Desmos Format:
+\left(t*\cos(0.490760)-e^{0.021389\left|t\right|}\cdot\sin(0.3t)\sin(0.490760)+54.9008,42+t*\sin(0.490760)+e^{0.021389\left|t\right|}\cdot\sin(0.3t)\cos(0.490760)\right)

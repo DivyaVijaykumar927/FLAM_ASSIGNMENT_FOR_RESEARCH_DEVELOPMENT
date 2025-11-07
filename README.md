@@ -1,6 +1,6 @@
 # FLAM_ASSIGNMENT_FOR_RESEARCH_DEVELOPMENT
 
-# 🎯 Parametric Curve Parameter Estimation (Research & Development / AI Assignment)
+#  Parametric Curve Parameter Estimation (Research & Development / AI Assignment)
 
 **Author:**  V DIVYA 
 **Institution:** AMRITA SCHOOL OF ENGINEERING ,CHENNAI
@@ -9,7 +9,7 @@
 
 ---
 
-## 🧩 Problem Overview
+##  Problem Overview
 
 We are given a **parametric curve** defined by the equations:
 
@@ -37,7 +37,7 @@ Estimate the unknown parameters:
 
 ---
 
-## 🧱 Repository Structure
+## Repository Structure
 
 parametric-curve-fitting/
 │
@@ -85,7 +85,7 @@ Copy code
 
 ---
 
-## 📊 Results (Replace these with your final numbers)
+##  Results (Replace these with your final numbers)
 
 | Parameter | Symbol | Value | Units | Range | ✅ |
 |------------|:--------|:--------|:------|:------|:--:|

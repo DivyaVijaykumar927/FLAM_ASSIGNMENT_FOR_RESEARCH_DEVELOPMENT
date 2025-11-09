@@ -113,13 +113,12 @@ Copy code
 ## 📈 Sample Visualizations
 
 ### 🔹 Version 1 Fit
-![Version 1 Fit](results/fitting_results_v4.png)
+![Version 1 Fit](results/fitting_results_v1.png)
 
 ### 🔹 Version 2 (Unique Research Variant)
-![Version 2 Fit](results/fitting_results_v5.png)
+![Version 2 Fit](results/fitting_results_v2.png)
 
-### 🔹 Residual Distribution (Version 5)
-![Residuals](results/residuals_v5.png)
+
 
 ---
 
